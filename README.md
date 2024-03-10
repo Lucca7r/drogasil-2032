@@ -16,7 +16,7 @@
 
 <br>
 <p align="center" >
-  <img width="250" alt="Tela Inicial" src="./assets/telaInicial.jpeg">
+  <img width="250" alt="Tela Inicial" src="./assets/telaInicial.jpg">
 </p>
 
 
