@@ -136,3 +136,12 @@ ul li a:hover {
     left: -13em;
   }
 }
+
+@media (min-width: 730px) {
+  #b {
+    display: flex;
+    z-index: -1;
+    width: 100vw;
+    top: 0;
+  }
+}
