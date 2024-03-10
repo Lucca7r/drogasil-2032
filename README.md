@@ -19,7 +19,6 @@
   <img width="250" alt="Tela Inicial" src="./assets/telaInicial.jpg">
 </p>
 
-
 # Descrição
 
 Este repositório contém o projeto final de um site desenvolvido com o apoio do gerente da loja, com o objetivo de melhorar a dinâmica do atendimento ao cliente.<br>
@@ -34,12 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-
 - [Acesse o projeto finalizado, online](https://lucca7r.github.io/drogasil-2032/)
 
-
-
 ## 👋 Licença
+
 <p>
 <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
